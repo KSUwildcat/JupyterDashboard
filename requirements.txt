@@ -1,3 +1,7 @@
 requests
 plotly
+jupyterlab
+pandas
+textblob
+plotly-express
 voila
